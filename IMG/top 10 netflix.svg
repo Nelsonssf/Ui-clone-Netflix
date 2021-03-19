@@ -1,0 +1,26 @@
+<svg id="top_10_netflix" data-name="top 10 netflix" xmlns="http://www.w3.org/2000/svg" width="128" height="130" viewBox="0 0 128 130">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #e11919;
+      }
+
+      .cls-2, .cls-3 {
+        font-size: 50px;
+        font-family: Helvetica;
+        font-weight: 700;
+      }
+
+      .cls-2 {
+        fill: #fffefe;
+      }
+
+      .cls-3 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <rect class="cls-1" width="128" height="130"/>
+  <text id="TOP_" data-name="TOP " class="cls-2" x="13.722" y="55.123">TOP</text>
+  <text id="_10_" data-name="10 " class="cls-3" transform="matrix(1.351, -0.004, 0.004, 1.351, 25.441, 108.706)">10</text>
+</svg>
